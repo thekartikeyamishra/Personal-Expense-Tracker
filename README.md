@@ -38,7 +38,7 @@ A simple and practical **Personal Expense Tracker** application built with **Spr
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/thekartikeyamishra/Personal-Expense-Tracker
    cd expense-tracker
    ```
 
